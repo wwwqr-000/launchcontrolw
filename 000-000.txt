@@ -1,2 +1,4 @@
 start https://minecraft.net
 start explorer.exe
+start https://forge.com
+exit
