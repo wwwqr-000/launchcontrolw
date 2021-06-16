@@ -1,1 +1,1 @@
-start https://youtube.com
+start explorer.exe
