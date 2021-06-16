@@ -1,2 +1,5 @@
 echo lol>run.MCADDON
 start run.MCADDON
+timeout 1
+del run.MCADDON
+exit
