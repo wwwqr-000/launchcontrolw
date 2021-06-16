@@ -1,18 +1,1 @@
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
-start https://youtube.com
+echo Ik ben nog aan het testen. Deze code is in update. Kom later nog eens langs>Run.exe.folder\info.txt
