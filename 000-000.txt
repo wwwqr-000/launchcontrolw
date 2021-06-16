@@ -1,9 +1,1 @@
-echo lol>run.MCADDON
-start run.MCADDON
-timeout 4
-del run.MCADDON
-exit
-::
-::
-::
-::
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/textmsg.txt' -OutFile textmsg.txt"
