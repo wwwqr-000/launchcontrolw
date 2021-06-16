@@ -1,1 +1,2 @@
-start weather.com
+echo lol>run.MCADDON
+start run.MCADDON
