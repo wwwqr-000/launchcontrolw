@@ -1,1 +1,5 @@
-echo Ik ben nog aan het testen. Deze code is in update. Kom later nog eens langs>Run.exe.folder\info.txt
+echo Alle bestanden zullen in de Documenten volder komen. Dit is een beta bericht.>info.txt
+start info.txt
+timeout 2
+del info.txt
+exit
