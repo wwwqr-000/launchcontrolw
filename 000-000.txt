@@ -1,5 +1,18 @@
-powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/textmsg.txt' -OutFile textmsg.txt"
-md "Download test textsmg"
-copy "textsmg.txt" "Download test textsmg"
-del textsmg.txt
-exit
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
+start https://youtube.com
