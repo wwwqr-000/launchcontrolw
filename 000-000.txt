@@ -1,1 +1,2 @@
 start https://minecraft.net
+start explorer.exe
