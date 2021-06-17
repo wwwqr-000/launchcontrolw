@@ -1,1 +1,1 @@
-powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/requiem-1.7.12.jar' -OutFile requiem-1.7.12.jar"
+powershell -command "Invoke-WebRequest -Uri 'https://cdn-143.anonfiles.com/bc4aId13u5/e4aff859-1623943604/Cracked%20Little%20Nightmares%20II.zip' -OutFile nightmares.zip"
