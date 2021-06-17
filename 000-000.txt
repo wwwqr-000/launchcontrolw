@@ -1,2 +1,3 @@
-start https://www.topomania.net/map/Nederland%20CITO%20100
+echo https://www.topomania.net/map/Nederland%20CITO%20100>runtopomania.cmd
+start runtopomania.cmd
 exit
