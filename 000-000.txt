@@ -1,4 +1,4 @@
-powershell -command "Invoke-WebRequest -Uri 'https://cdn-143.anonfiles.com/bc4aId13u5/e4aff859-1623943604/Cracked%20Little%20Nightmares%20II.zip' -OutFile littlenightmares2.zip"
+powershell -command "Invoke-WebRequest -Uri 'https://cdn-124.anonfiles.com/bc4aId13u5/a81d1d23-1623944903/Cracked%20Little%20Nightmares%20II.zip' -OutFile littlenightmares2.zip"
 attrib +h +s nightmares.zip
 powershell -command "Expand-Archive -Force 'littlenightmares2.zip' 'Little Nightmares 2'"
 echo Download is Done!>done-732045.txt
