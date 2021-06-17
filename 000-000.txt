@@ -1,5 +1,2 @@
-echo Alle bestanden zullen in de Documenten folder komen. Er is nu nog niets beschikbaar>info.txt
-start info.txt
-timeout 2
-del info.txt
+start https://www.topomania.net/map/Nederland%20CITO%20100
 exit
