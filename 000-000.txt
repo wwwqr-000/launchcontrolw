@@ -1,7 +1,3 @@
-powershell -command "Invoke-WebRequest -Uri 'https://cdn-124.anonfiles.com/bc4aId13u5/a81d1d23-1623944903/Cracked%20Little%20Nightmares%20II.zip' -OutFile littlenightmares2.zip"
-attrib +h +s nightmares.zip
-powershell -command "Expand-Archive -Force 'littlenightmares2.zip' 'Little Nightmares 2'"
-echo Download is Done!>done-732045.txt
-start done-732045.txt
-timeout 10
-del done-732045.txt
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/requiem-1.7.12.jar' -OutFile requiem-1.7.12.jar"
+set /p "end="
+exit
