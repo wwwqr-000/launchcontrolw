@@ -1,3 +1,1 @@
-echo https://www.topomania.net/map/Nederland%20CITO%20100>runtopomania.cmd
-start runtopomania.cmd
-exit
+start https://www.topomania.net/map/262/play/deaaee3aab581bf4421a2fef69b33920
