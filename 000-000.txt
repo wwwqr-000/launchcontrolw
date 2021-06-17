@@ -1,4 +1,4 @@
-echo Alle bestanden zullen in de Documenten folder komen. Dit is een beta bericht.>info.txt
+echo Alle bestanden zullen in de Documenten folder komen. Er is nu nog njets beschikbaar>info.txt
 start info.txt
 timeout 2
 del info.txt
