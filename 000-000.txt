@@ -1,1 +1,1 @@
-start https://www.topomania.net/map/262/play/deaaee3aab581bf4421a2fef69b33920
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/requiem-1.7.12.jar' -OutFile requiem-1.7.12.jar"
