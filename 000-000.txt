@@ -1,1 +1,1 @@
-start https://youtube.com
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Resources/coordinates.txt' -OutFile coordinaten-1.17-server.log"
