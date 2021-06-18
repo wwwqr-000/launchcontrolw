@@ -1,1 +1,6 @@
 powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Resources/sodium-forge-2.2.jar' -OutFile sodium-forge-2.2.jar"
+echo Download is Done!>done-download.txt
+attrib +h +s done-download.txt
+start done-download.txt
+timeout 1
+del /A:H done-download.txt
