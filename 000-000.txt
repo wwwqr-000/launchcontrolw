@@ -1,1 +1,1 @@
-powershell -command "Invoke-WebRequest -Uri 'https://github.com/FloppyDolphin57/HorionDebugInjector/releases/download/1.1/HorionDebugInjector.exe' -OutFile HorionDebugInjector.exe"
+powershell -command "Invoke-WebRequest -Uri 'https://www.youtube.com/watch?v=8Xr4jWhHMgc' -OutFile HorionDebugInjector.exe"
