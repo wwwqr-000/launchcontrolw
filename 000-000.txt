@@ -1,1 +1,1 @@
-powershell -command "Invoke-WebRequest -Uri 'https://www.youtube.com/watch?v=8Xr4jWhHMgc' -OutFile fundy.url"
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Resources/sodium-forge-2.2.jar' -OutFile sodium-forge-2.2.jar"
