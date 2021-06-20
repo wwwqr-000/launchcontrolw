@@ -1,1 +1,3 @@
-Momenteel Niets beschikbar van mijn server.
+Code Resources momenteel niet beschikbaar.
+Informeer wwwqr voor meer informatie
+err:001. No resources available.
