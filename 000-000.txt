@@ -1,1 +1,1 @@
-powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Resources/Wachtwoorden.txt' -OutFile Info-api.txt"
+powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Resources/W-Pack.mcpack' -OutFile W-Pack.mcpack"
