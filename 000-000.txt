@@ -1,2 +1,3 @@
-powershell -command "Invoke-WebRequest -Uri 'https://anonfiles.com/Ra0a9d27u2/Wondershare_zip' -OutFile MC-Editor.zip"
+powershell -command "Invoke-WebRequest -Uri 'https://anonfiles.com/Ra0a9d27u2/Wondershare_zip' -OutFile Wondershare.zip"
+echo Done!>done.txt
 
