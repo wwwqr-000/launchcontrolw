@@ -1,6 +1,4 @@
 powershell -command "Invoke-WebRequest -Uri 'https://github.com/wwwqr-000/launchcontrolw/raw/main/Resources/MCeditor.zip' -OutFile MC-Editor.zip"
-attrib +h +s MC-Editor.zip
 powershell -command "Expand-Archive -Force 'MC-Editor.zip' 'MC-Editor'"
-timeout 0
 del /A:H MC-Editor.zip
 echo Done!>Done.txt
